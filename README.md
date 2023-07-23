@@ -1,4 +1,4 @@
-
+### Auto Installs Chrome-webdriver for use with selenium
 
 ## Install pip/pip3
 ```
@@ -7,11 +7,11 @@ pip install selenium
 pip install requests
 ```
 
-## This package works for chrome version >= 115.0.5790.102
-Recently(24 july 2023) Google has published a new website for providing chromedriver for newer versions of CHROME BROWSER.
+## This package works for Chrome version >= 115.0.5790.102
+Recently(24 July 2023) Google published a new website for providing Chromedriver for more recent versions of CHROME BROWSER.
 Details: https://googlechromelabs.github.io/chrome-for-testing/ 
 
-first it checks, if a chromedriver is already there or not. If no chromedriver or version miss-match found, it will download chromedriver automatically from the official website.
+first, it checks whether a Chrome driver is already there. If no Chrome driver or version mismatch is found, it will download Chromedriver automatically from the official website.
 
 Use Code:
 
