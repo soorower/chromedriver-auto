@@ -1,22 +1,10 @@
 
-# Make sure you have upgraded version of pip
-Windows
-```
-py -m pip install --upgrade pip
-```
 
-Linux/MAC OS
-```
-python3 -m pip install --upgrade pip
-```
-
-## Install
+## Install pip/pip3
 ```
 pip install chromedriver-auto
-
-or 
-
-pip3 install chromedriver-auto
+pip install selenium
+pip install requests
 ```
 
 ## This package works for chrome version >= 115.0.5790.102
