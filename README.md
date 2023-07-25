@@ -1,4 +1,4 @@
-### Auto Installs Chrome-webdriver for use with selenium
+### Auto Installs Chrome-webdriver (selenium python)
 
 ## Install pip/pip3
 ```
